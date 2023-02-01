@@ -37,7 +37,7 @@ The data model for this project is explained in the following diagram.
 
 ![Data Model](figs/data_model.png)
 
-Data dictionary for `restaurants.csv`
+Data dictionary: 
 
 - `SalePrice ` - the property's sale price in dollars. This is the target variable that you're trying to predict.
 - `MSSubClass: `The building class
