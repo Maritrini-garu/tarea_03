@@ -35,7 +35,7 @@
  
 The data model for this project is explained in the following diagram.
 
-![Data Model](/struc_2.png)
+![Data Model](struct_2.png)
 
 Data dictionary: 
 
